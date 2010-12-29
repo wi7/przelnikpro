@@ -1,4 +1,17 @@
 Przelnik::Application.routes.draw do
+
+  root :to => "singles#home"
+
+  get "singles/home"
+
+  get "singles/ogloszenia"
+
+  get "singles/czytelnia"
+
+  get "singles/kontakt"
+
+  get "singles/faq"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

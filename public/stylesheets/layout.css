@@ -1,10 +1,7 @@
-
 #header {
-  height:115px;
-  background:url('../images/bg/header.jpg') repeat-x;
-}
+  height: 115px;
+  background: url("../images/bg/header.jpg") repeat-x; }
 
 #headline {
-  height:115px;
-  background:#b80000;
-}
+  height: 115px;
+  background: #b80000; }

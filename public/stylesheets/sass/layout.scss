@@ -1,0 +1,12 @@
+$red-color: #b80000;
+$green-color: #0f0;
+
+#header {
+  height:115px;
+  background:url('../images/bg/header.jpg') repeat-x;
+}
+
+#headline {
+  height:115px;
+  background:$red-color;
+}
